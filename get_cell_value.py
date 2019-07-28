@@ -5,4 +5,3 @@ def cell_value(file, sheet,cell):
     sheet = file[sheet]
     value = sheet[cell].value
     return value
-g_
